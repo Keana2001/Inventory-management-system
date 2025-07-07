@@ -18,3 +18,8 @@ Technologies used:
 - CSV for data storage
 - Matplotlib fore trend visualization
 - JSON for export functionally 
+
+Usage:
+- Choose from the menu options to add, update, search, filter, and forecast inventory
+- Use the 'sample data' option to quickly populate the CSV for testing
+- Trend charts will automatically pop up using Matplotlib
